@@ -1,3 +1,1 @@
-git remote add origin https://github.com/kushalgurung23/weather_app.git
-git branch -M main
-git push -u origin main
+Flutter project that displays weather temperature based on the device's current location and name of the city that the user types in text field.
